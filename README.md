@@ -2,6 +2,8 @@
 
 I am currently a postdoc at KAUST
 
+## [CV](https://cebumactan.github.io/ming-lee/CV)
+
 ## News
 
 ### Contacts
