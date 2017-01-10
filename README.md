@@ -37,5 +37,5 @@ Applied Partial Differential Equations
 1. Existence of localizing solutions in plasticity via geometric theory of singular perturbations (with Min-Gi Lee). _SIAM J. Appl. Dyn. Syst._ (to appear). 
 1. Existence of localizing solutions in plasticity via geometric theory of singular perturbations (with Min-Gi Lee). SIAM J. Appl. Dyn. Syst. (to appear). 
 
-_Last Updated: {{ page.date }}_
+_Last Updated:_ {{ page.last-modified-date | date: '%B %d, %Y' }}
 
