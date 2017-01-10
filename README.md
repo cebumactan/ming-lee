@@ -13,9 +13,9 @@ King Abdullah University of Science and Technology (KAUST) <br>
 Thuwal, 23955-6900 <br>
 Saudi Arabia 
 
-- email: mingi.lee at kaust.edu.sa
-- phone: +966 12 808 6142
-- webpage: [https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
+mingi.lee at kaust.edu.sa  
++966 12 808 6142  
+[https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
 
 ## Welcome to GitHub Pages
 
