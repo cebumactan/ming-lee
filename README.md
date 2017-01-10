@@ -18,14 +18,14 @@ I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pd
 {% endcomment %} 
 
 
-### Research Interests
-Applied Partial Differential Equations
-
 ### Employment & Education
 
 Year|Title
 ---|---
 10/2016 - | Postdoc
+
+### Research Interests
+Applied Partial Differential Equations
 
 ### Publications, Preprints
 
