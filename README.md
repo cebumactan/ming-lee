@@ -1,5 +1,5 @@
 ## Welcome to Min-Gi Lee's page
-<img src="https://cebumactan.github.io/ming-lee/photo3.png" width="125" class="wrap align-left">
+<img src="https://cebumactan.github.io/ming-lee/photo3.png" width="120" class="wrap align-left">
 Postdoctoral fellow of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa). Mentor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras)  
 
 [Computer, Electical, Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa/Pages/Home.aspx) <br>
