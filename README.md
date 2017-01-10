@@ -32,8 +32,8 @@ Year|Title
 ### Research Interests
 Applied Partial Differential Equations
 
-
-### Publications, Preprints <a name=#Publications> </a>
+<a name=#Publications> </a>
+### Publications, Preprints
 1. Min-Gi Lee, Athanasios Tzavaras, Existence of localizing solutions in plasticity via the geometric theory
 of singular perturbations, _Siam J. Appl. Dyn. Systems_, to appear. [preprint](a)
 
