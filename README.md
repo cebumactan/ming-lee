@@ -27,7 +27,7 @@ Year|Title
 08/2014 | Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/)
 08/2009 | M.S. Department of Mathematical Science, KAIST.
 08/2007 | B.S. Department of Mathematics, KAIST. 
-6th Alumni | Hansung Science Highschool
+The 6th graduate | Hansung Science Highschool
 
 ### Research Interests
 Applied Partial Differential Equations
