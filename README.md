@@ -21,11 +21,13 @@ I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pd
 Applied Partial Differential Equations
 
 ### Employment & Education
+
 Year|Title
 ---|---
 10/2016 - | Postdoc
 
 ### Publications, Preprints
+
 1. bla
 1. bla2
 
