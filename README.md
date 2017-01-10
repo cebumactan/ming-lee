@@ -1,5 +1,5 @@
 ## Welcome to Min-Gi Lee's pages
-![photo.png](https://cebumactan.github.io/ming-lee/photo3.png)
+<img src="https://cebumactan.github.io/ming-lee/photo3.png" width="100">
 I am currently a postdoc at KAUST
 
 ## [CV](https://cebumactan.github.io/ming-lee/CV)
