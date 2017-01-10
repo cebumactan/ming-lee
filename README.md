@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to Min-Gi Lee's pages
 
 I am currently a postdoc at KAUST
