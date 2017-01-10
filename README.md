@@ -1,3 +1,16 @@
+## Welcome to Min-Gi Lee's pages
+
+I am currently a postdoc at KAUST, with Athanasios Tzavaras
+
+## News
+
+## Publications
+
+## Contacts
+mingi.lee at kaust.edu.sa
++966 12 808 6142
+[https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/cebumactan/pages/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
