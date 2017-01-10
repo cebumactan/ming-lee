@@ -24,7 +24,7 @@ I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pd
 1. 08/2014  Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/)
 1. 08/2009  M.S. Department of Mathematical Science, KAIST.
 1. 08/2007  B.S. Department of Mathematics, KAIST. 
-1. The 6th graduate | Hansung Science Highschool
+1. The 6th graduate Hansung Science Highschool
 
 
 <!--
