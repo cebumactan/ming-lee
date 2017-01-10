@@ -11,10 +11,10 @@ Saudi Arabia
 mingi.lee at kaust.edu.sa  
 +966 12 808 6142  
 [https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
-
+<!--
 I am currently a postdoc at KAUST. I am interested in ... I have been trained on partial differential equations, dynamical systems, and basic numerical analysis 
 I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/) in Korea Advanced Institute of Science & Technology[(KAIST)](www.kaist.ac.kr). 
-
+-->
 ## Research Interests
 Applied Partial Differential Equations
 
