@@ -23,7 +23,7 @@ Applied Partial Differential Equations
 ### Employment & Education
 
 ### Publications, Preprints
-<div class="footer">
+<section class="publications">
 
 1. blabla
 1. blabla2
@@ -31,7 +31,7 @@ Applied Partial Differential Equations
 1. blabla4
 1. blabla5
 1. blabla5
-</div>
+</section>
 
 ### [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications) /
 ---
