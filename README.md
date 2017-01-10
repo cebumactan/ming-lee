@@ -17,6 +17,7 @@ I am currently a postdoc at KAUST. I am interested in ... I have been trained on
 I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/) in Korea Advanced Institute of Science & Technology[(KAIST)](www.kaist.ac.kr). 
 {% endcomment %} 
 
+### [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications) /
 
 ### Employment & Education
 
@@ -32,8 +33,6 @@ Applied Partial Differential Equations
 1. Existence of localizing solutions in plasticity via geometric theory of singular perturbations (with Min-Gi Lee). _SIAM J. Appl. Dyn. Syst._ (to appear). 
 1. Existence of localizing solutions in plasticity via geometric theory of singular perturbations (with Min-Gi Lee). SIAM J. Appl. Dyn. Syst. (to appear). 
 
-
-### [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications) /
 ---
 
 ### News
