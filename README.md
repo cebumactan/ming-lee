@@ -28,8 +28,8 @@ Year|Title
 
 ### Publications, Preprints
 
-1. bla
-1. bla2
+1. Existence of localizing solutions in plasticity via geometric theory of singular perturbations (with Min-Gi Lee). _SIAM J. Appl. Dyn. Syst._ (to appear). 
+1. Existence of localizing solutions in plasticity via geometric theory of singular perturbations (with Min-Gi Lee). SIAM J. Appl. Dyn. Syst. (to appear). 
 
 
 ### [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications) /
