@@ -21,23 +21,17 @@ I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pd
 Applied Partial Differential Equations
 
 ### Employment & Education
+Year|Title
+---|---
+10/2016 - | Postdoc
 
 ### Publications, Preprints
-<div class="publications">
-
 1. blabla
-
-2. blabla2  
-
-3. blabla3  
-
-4. blabla4  
-
-5. blabla5  
-
-6. blabla5  
-
-</div>
+1. blabla2  
+1. blabla3  
+1. blabla4  
+1. blabla5  
+1. blabla5  
 
 ### [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications) /
 ---
