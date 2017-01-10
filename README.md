@@ -1,4 +1,4 @@
-## Welcome to Min-Gi Lee's pages
+## Welcome to Min-Gi Lee's page
 <img src="https://cebumactan.github.io/ming-lee/photo3.png" width="100" class="wrap align-left">
 [Computer, Electical, Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa/Pages/Home.aspx) <br>
 King Abdullah University of Science and Technology (KAUST) <br>
