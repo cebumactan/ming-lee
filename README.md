@@ -26,12 +26,7 @@ Year|Title
 10/2016 - | Postdoc
 
 ### Publications, Preprints
-1. blabla
-1. blabla2  
-1. blabla3  
-1. blabla4  
-1. blabla5  
-1. blabla5  
+
 
 ### [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications) /
 ---
