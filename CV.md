@@ -23,6 +23,7 @@ layout: default
 1. Have taken a mini-course on Finite volume methods, KAUST, SA, 2016.
 
 ## Research Projects
+
 ### Ongoing
 1. Emergence of localization in Adiabatic Flow
 blablabla
@@ -36,11 +37,6 @@ blablabla
 ---
 1. Anisotropic Conductivity Reconstruction Method for a Medical Imaging.
 1. Homing Guidance Loop Design and Analysis, with Korean Agency for Defense Development.
-
-## Academic Visitings
-1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
-1. Universität Stuttgart, Stuttgart, Germany, August 14-27, 2016.
-1. ECNU Center for PDE, Shanghai, China, April 10-21, 2011
 
 ## Presentations
 1. Existence of localizing solutions in plasticity via the geometric singular perturbation theory
@@ -79,7 +75,13 @@ Workshop for Young Mathematicians in Korea, in Postech, January 29, 2011
 1. A direct method for a conductivity recovery using a resistive network
 KSIAM 2008 Annual meeting, in Suanbo, November 28-29, 2008
 
+## Academic Visitings
+1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
+1. Universität Stuttgart, Stuttgart, Germany, August 14-27, 2016.
+1. ECNU Center for PDE, Shanghai, China, April 10-21, 2011
+
 ## Teaching
+
 ### Advisory service
 1. Via Visiting Students Research Program, KAUST, SA May ∼ September, 2016 on On 1-D Euler-Korteweg
 flow driven by temperature gradient.
