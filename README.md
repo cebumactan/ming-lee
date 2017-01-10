@@ -1,4 +1,4 @@
-### / [Home](https://cebumactan.github.io/ming-lee/) / [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications) / [Pages](https://cebumactan.github.io/ming-lee/Materials) /
+### / [Home](https://cebumactan.github.io/ming-lee/) / [CV](https://cebumactan.github.io/ming-lee/) / [Publications](#Publications) / [Pages](https://cebumactan.github.io/ming-lee/Materials) /
 
 ## Welcome to Min-Gi Lee's page
 <img src="https://cebumactan.github.io/ming-lee/photo3.png" width="120" class="wrap align-left">
@@ -32,7 +32,8 @@ Year|Title
 ### Research Interests
 Applied Partial Differential Equations
 
-### Publications, Preprints
+
+### Publications, Preprints <a name=#Publications> </a>
 1. Min-Gi Lee, Athanasios Tzavaras, Existence of localizing solutions in plasticity via the geometric theory
 of singular perturbations, _Siam J. Appl. Dyn. Systems_, to appear. [preprint](a)
 
