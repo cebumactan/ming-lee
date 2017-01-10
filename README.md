@@ -25,11 +25,16 @@ Applied Partial Differential Equations
 ### Publications, Preprints
 <div class="publications">
 
-1. blabla  
+1. blabla
+
 2. blabla2  
+
 3. blabla3  
+
 4. blabla4  
+
 5. blabla5  
+
 6. blabla5  
 
 </div>
