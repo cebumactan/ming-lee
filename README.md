@@ -11,11 +11,10 @@ Saudi Arabia
 mingi.lee at kaust.edu.sa  
 +966 12 808 6142  
 [https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
-I am currently a postdoc at KAUST
 
-## [CV](https://cebumactan.github.io/ming-lee/CV)
+I am currently a postdoc at KAUST.
+
+## [CV](https://cebumactan.github.io/ming-lee/CV) / [Publications](https://cebumactan.github.io/ming-lee/Publications)
 
 ## News
-
-### Contacts
 
