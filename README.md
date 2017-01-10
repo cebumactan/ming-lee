@@ -23,10 +23,10 @@ I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pd
 
 Year|Title
 ---|---
-10/2016 - | Postdoc, KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras)
-2014 | Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/)
-2009 | M.S. Department of Mathematical Science, KAIST.
-2007 | B.S. Department of Mathematics, KAIST. 
+09/2014 - | Postdoc, KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras)
+08/2014 | Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/)
+08/2009 | M.S. Department of Mathematical Science, KAIST.
+08/2007 | B.S. Department of Mathematics, KAIST. 
 6th Alumni | Hansung Science Highschool
 
 ### Research Interests
