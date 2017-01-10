@@ -9,12 +9,9 @@ img.align-right { float: right; margin-left: 30px; }
 img.align-left { float: left; margin-right: 30px; }
 
 
-body.my {
-  padding: 0;
-  margin: 0;
-  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
-  line-height: 1.5;
-  color: #606c71; }
+.main-content ul,
+.main-content ol {
+  margin-top: 0;
+  font-size: 0.7rem;}
 
 div.publications { font-size: 15px; }
