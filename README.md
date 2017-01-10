@@ -6,7 +6,7 @@ I am currently a postdoc at KAUST
 
 ## Publications
 
-## Contacts
+### Contacts
 [Computer, Electical, Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa/Pages/Home.aspx) <br>
 King Abdullah University of Science and Technology (KAUST) <br>
 4700 KAUST <br>
