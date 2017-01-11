@@ -89,5 +89,5 @@ Workshop for Young Mathematicians in Korea, in Postech, January 29, 2011
 1. A direct method for a conductivity recovery using a resistive network
 KSIAM 2008 Annual meeting, in Suanbo, November 28-29, 2008
 
-
+_Last Updated: January 11, 2017._
 
