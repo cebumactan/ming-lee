@@ -37,6 +37,21 @@ blablabla
 1. Anisotropic Conductivity Reconstruction Method for a Medical Imaging.
 1. Homing Guidance Loop Design and Analysis, with Korean Agency for Defense Development.
 
+## Teaching
+
+### Advisory service
+1. Via Visiting Students Research Program, KAUST, SA May ∼ September, 2016 on On 1-D Euler-Korteweg
+flow driven by temperature gradient.
+
+### Assistant
+1. Calculus 1, KAIST, Spring, 2008
+1. Freshmen Design, KAIST, Autumn, 2008
+
+## Visitings, Collaborations
+1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
+1. Universität Stuttgart, Stuttgart, Germany, August 14-27, 2016.
+1. ECNU Center for PDE, Shanghai, China, April 10-21, 2011
+
 ## Presentations
 1. Existence of localizing solutions in plasticity via the geometric singular perturbation theory
 Universität Stuttgart, Stuttgart, Germany, August 22nd, 2016
@@ -74,18 +89,5 @@ Workshop for Young Mathematicians in Korea, in Postech, January 29, 2011
 1. A direct method for a conductivity recovery using a resistive network
 KSIAM 2008 Annual meeting, in Suanbo, November 28-29, 2008
 
-## Academic Visitings
-1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
-1. Universität Stuttgart, Stuttgart, Germany, August 14-27, 2016.
-1. ECNU Center for PDE, Shanghai, China, April 10-21, 2011
 
-## Teaching
-
-### Advisory service
-1. Via Visiting Students Research Program, KAUST, SA May ∼ September, 2016 on On 1-D Euler-Korteweg
-flow driven by temperature gradient.
-
-### Assistant
-1. Calculus 1, KAIST, Spring, 2008
-1. Freshmen Design, KAIST, Autumn, 2008
 
