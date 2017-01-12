@@ -40,7 +40,7 @@ The 6th graduate | Hansung Science Highschool
 Applied Partial Differential Equations
 
 ### Publications, Preprints <a name="Publications"> </a>
-1. Min-Gi Lee, Theodoros Katsaounis and Athanasios E. Tzavaras, Localization of Adiabatic Deformations in Thermoviscoplastic Materials, _In Proceedings of the 16th International Conference on Hyperbolic Problems: Theory, Numerics, Applications (HYP2016)_, to appear. [preprint](https://github.com/cebumactan/tex_repo/blob/master/shbndhyp2016/shbndhyp2016.pdf)
+1. Min-Gi Lee, Theodoros Katsaounis and Athanasios E. Tzavaras, Localization of Adiabatic Deformations in Thermoviscoplastic Materials, _In Proceedings of the 16th International Conference on Hyperbolic Problems: Theory, Numerics, Applications (HYP2016)_, to appear. [preprint](https://github.com/cebumactan/tex_repo/raw/master/shbndhyp2016/shbndhyp2016.pdf)
 
 1. Min-Gi Lee, Athanasios Tzavaras, Existence of localizing solutions in plasticity via the geometric theory
 of singular perturbations, _Siam J. Appl. Dyn. Systems_, to appear. [preprint](a)
