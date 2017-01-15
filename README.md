@@ -49,7 +49,7 @@ of singular perturbations, _Siam J. Appl. Dyn. Systems_, to appear. [arxiv:1608.
 shearing deformations, _J. Mech. Phys. of Solids_ 98 (2017), 106–125. [arxiv:1605.04564](https://arxiv.org/abs/1605.04564)
 
 3. Yong-Jung Kim, Min-Gi Lee, Existence and uniqueness in anisotropic conductivity reconstruction with
-Faraday’s law, submitted to J. Differential Equations. [preprint](a)
+Faraday’s law, submitted to J. Differential Equations. [preprint](https://github.com/cebumactan/ming-lee/blob/master/preprints/39Aniso-2D.pdf)
 
 4. Min-Gi Lee, Min-Su Ko, Yong-Jung Kim, Orthotropic conductivity reconstruction with virtual resistive
 network and Faraday’s law, _Math. Methods Appl. Sci._ 39 (2016), 1183-1196. [ARTICLE](http://onlinelibrary.wiley.com/doi/10.1002/mma.3564/pdf)
@@ -68,7 +68,7 @@ struction of Conductivity Using Dual Loop Method with One Injection Current in M
 Biol._ 55 (2010), no.24, 7523-7539. [ARTICLE](http://iopscience.iop.org/article/10.1088/0031-9155/55/24/009/pdf)
 
 ### Theses 
-1. Min-Gi Lee, Well-posedness in anisotropic electrical conductivity reconstruction [(2014, Ph.D. thesis, KAIST)](a) 
+1. Min-Gi Lee, Well-posedness in anisotropic electrical conductivity reconstruction [(2014, Ph.D. thesis, KAIST)](https://github.com/cebumactan/ming-lee/blob/master/preprints/Min-Gi_Lee_Thesis.pdf) 
 1. Min-Gi Lee, Network approach to conductivity recovery, (2009, Master thesis, KAIST). 
 
 
