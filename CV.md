@@ -4,17 +4,16 @@ layout: default
 # CV
 
 ## Employment
-1. 10/2016- Postdoctoral Fellow of Applied PDE Group at KAUST
-
+1. 10/2016- Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
 
 ## Education
-1. Ph.d.
-1. M.s.
-1. B.s.
-1. Hansung Science Highschool
+1. 08/2014 Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/).
+1. 08/2009 M.S. Department of Mathematical Science, KAIST.
+1. 08/2007 B.S. Department of Mathematics, KAIST.
+1. The 6th graduate of Hansung Science Highschool
 
 ## Awards
-1. National Junior Fellowship
+1. National Junior Research Fellowship, National Research Foundation of Korea.
 
 ## Skills and Experiences
 1. Capable of writing codes in C, Python, and Matlab.
@@ -24,14 +23,13 @@ layout: default
 ## Research Projects
 
 ### Ongoing
-1. Emergence of localization in Adiabatic Flow
-blablabla
+1. Localization and the formation of shear bands in thermoviscoplastic deformations.
 
-1. Proton Diffusion in Water Modeling
+1. Polyconvex energy and entropy techniques with higher gradient / non-local contributions.
 
-1. Polyconvexity
+1. Proton Diffusion in Water.
 
-1. Boundary-value-problem of viscosity-capillarity problems.
+1. Boundary value problems of viscosity-capillarity system.
 
 ---
 1. Anisotropic Conductivity Reconstruction Method for a Medical Imaging.
