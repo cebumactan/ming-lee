@@ -43,10 +43,10 @@ Applied Partial Differential Equations
 1. Min-Gi Lee, Theodoros Katsaounis and Athanasios E. Tzavaras, Localization of Adiabatic Deformations in Thermoviscoplastic Materials, _In Proceedings of the 16th International Conference on Hyperbolic Problems: Theory, Numerics, Applications (HYP2016)_, to appear. [preprint](https://github.com/cebumactan/tex_repo/raw/master/shbndhyp2016/shbndhyp2016.pdf)
 
 1. Min-Gi Lee, Athanasios Tzavaras, Existence of localizing solutions in plasticity via the geometric theory
-of singular perturbations, _Siam J. Appl. Dyn. Systems_, to appear. [preprint](https://arxiv.org/abs/1608.00198).
+of singular perturbations, _Siam J. Appl. Dyn. Systems_, to appear. [arxiv:1608.00198](https://arxiv.org/abs/1608.00198).
 
 1. Theodoros Katsaounis, Min-Gi Lee, Athanasios Tzavaras, Localization in inelastic rate dependent
-shearing deformations, _J. Mech. Phys. of Solids_ 98 (2017), 106–125. [preprint](https://arxiv.org/abs/1605.04564)
+shearing deformations, _J. Mech. Phys. of Solids_ 98 (2017), 106–125. [arxiv:1605.04564](https://arxiv.org/abs/1605.04564)
 
 3. Yong-Jung Kim, Min-Gi Lee, Existence and uniqueness in anisotropic conductivity reconstruction with
 Faraday’s law, submitted to J. Differential Equations. [preprint](a)
