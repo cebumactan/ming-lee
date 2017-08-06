@@ -40,6 +40,8 @@ The 6th graduate | Hansung Science Highschool
 Applied Partial Differential Equations
 
 ### Publications, Preprints <a name="Publications"> </a>
+1. Min-Gi Lee and Athanasios E. Tzavaras, Localization in adiabatic shear flow via geometric theory of singular perturbations. [arXiv:1707.05283v4](https://arxiv.org/abs/1707.05283)
+
 1. Min-Gi Lee, Theodoros Katsaounis and Athanasios E. Tzavaras, Localization of Adiabatic Deformations in Thermoviscoplastic Materials, _In Proceedings of the 16th International Conference on Hyperbolic Problems: Theory, Numerics, Applications (HYP2016)_, to appear. [preprint](https://github.com/cebumactan/tex_repo/raw/master/shbndhyp2016/shbndhyp2016.pdf)
 
 1. Min-Gi Lee, Athanasios Tzavaras, Existence of localizing solutions in plasticity via the geometric theory
