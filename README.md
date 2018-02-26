@@ -79,5 +79,5 @@ Biol._ 55 (2010), no.24, 7523-7539. [ARTICLE](http://iopscience.iop.org/article/
 1. Min-Gi Lee, Network approach to conductivity recovery, (2009, Master thesis, KAIST). 
 
 
-_Last Updated: August 6, 2017._
+_Last Updated: Feburary, 2018._
 
