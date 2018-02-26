@@ -2,9 +2,9 @@
 layout: default
 ---
 # CV
-
+<div>
 <img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="align-left">
-
+</div>
 
 ## Employment
 1. 10/2016- 12/2018 Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
