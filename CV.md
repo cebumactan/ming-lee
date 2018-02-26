@@ -3,8 +3,11 @@ layout: default
 ---
 # CV
 
+<img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="wrap align-right">
+
+
 ## Employment
-1. 10/2016- Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
+1. 10/2016- 12/2018 Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
 
 ## Education
 1. 08/2014 Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/).
@@ -13,7 +16,7 @@ layout: default
 1. The 6th graduate of Hansung Science Highschool
 
 ## Awards
-1. National Junior Research Fellowship, National Research Foundation of Korea.
+1. 2011 National Junior Research Fellowship, National Research Foundation of Korea.
 
 ## Skills and Experiences
 1. Capable of writing codes in C, Python, and Matlab.
