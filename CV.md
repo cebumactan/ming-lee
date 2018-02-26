@@ -7,7 +7,7 @@ layout: default
 <br>
 
 ## Employment
-1. 10/2016- 12/2018 Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
+1. 09/2016- 12/2018 Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
 
 ## Education
 1. 08/2014 Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/).
