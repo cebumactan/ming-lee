@@ -7,6 +7,8 @@ layout: default
 <br>
 
 ## Employment
+1. 02/2018- moving to GSSI, Italy.
+1. 01/2018 Visiting Researcher, KAIST, Korea.
 1. 09/2016- 12/2018 Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
 
 ## Education
