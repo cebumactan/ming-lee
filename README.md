@@ -1,6 +1,8 @@
 ## Welcome to Min-Gi Lee's page
 <img src="https://cebumactan.github.io/ming-lee/photo3.png" width="120" class="wrap align-left">
-I am currently a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa).  
+I am moving to [Gran Sasso Science Institute](http://www.gssi.infn.it/) in L'aquila, Italy to work as a postdoctoral researcher.
+
+I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa) until DEC, 2017.  
 Postdoctoral advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
 
 [Computer, Electical, Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa/Pages/Home.aspx) <br>
@@ -9,8 +11,9 @@ King Abdullah University of Science and Technology (KAUST) <br>
 Thuwal, 23955-6900 <br>
 Saudi Arabia 
 
+
 mingi.lee at kaust.edu.sa  
-+966 12 808 6142  
+<!-- +966 12 808 6142 %}  -->
 [https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
 
 {% comment %} 
@@ -19,7 +22,9 @@ I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pd
 {% endcomment %} 
 
 ### Employment & Education
-1. 09/2014 -  Postdoc, KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
+1. 02/2018 - moving to GSSI, Italy.
+1. 01/2018 Visiting Researcher, KAIST, Korea
+1. 09/2014 - 12/2017 Postdoc, KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
 1. 08/2014  Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/).
 1. 08/2009  M.S. Department of Mathematical Science, KAIST.
 1. 08/2007  B.S. Department of Mathematics, KAIST. 
