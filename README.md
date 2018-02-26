@@ -1,10 +1,9 @@
 ## Welcome to Min-Gi Lee's page
 <img src="https://cebumactan.github.io/ming-lee/photo3.png" width="120" class="wrap align-left">
-I am moving to [Gran Sasso Science Institute](http://www.gssi.infn.it/) in L'aquila, Italy to work as a postdoctoral researcher.
+I am moving to [Gran Sasso Science Institute](http://www.gssi.infn.it/) in L'aquila, Italy to work as a postdoctoral researcher. <img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="wrap align-right">
 
 I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa) until DEC, 2017.  
-Postdoctoral advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).<img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="wrap align-right">
-
+Postdoctoral advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
 [Computer, Electical, Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa/Pages/Home.aspx) <br>
 King Abdullah University of Science and Technology (KAUST) <br>
 4700 KAUST <br>
