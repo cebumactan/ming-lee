@@ -3,7 +3,7 @@ layout: default
 ---
 # CV
 
-<img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="wrap align-left">
+<img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="align-left">
 
 
 ## Employment
