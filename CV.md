@@ -2,9 +2,9 @@
 layout: default
 ---
 # CV
-<div>
+
 <img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="align-left">
-</div>
+<br>
 
 ## Employment
 1. 10/2016- 12/2018 Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
@@ -18,14 +18,8 @@ layout: default
 ## Awards
 1. 2011 National Junior Research Fellowship, National Research Foundation of Korea.
 
-## Skills and Experiences
-1. Capable of writing codes in C, Python, and Matlab.
-1. Have experience to implement high order Finite element methods.
-1. Have taken a mini-course on Finite volume methods, KAUST, SA, 2016.
-
 ## Research Projects
 
-### Ongoing
 1. Localization and the formation of shear bands in thermoviscoplastic deformations.
 
 1. Polyconvex energy and entropy techniques with higher gradient / non-local contributions.
@@ -34,10 +28,17 @@ layout: default
 
 1. Boundary value problems of viscosity-capillarity system.
 
----
 1. Anisotropic Conductivity Reconstruction Method for a Medical Imaging.
+
 1. Homing Guidance Loop Design and Analysis, with Korean Agency for Defense Development.
 
+---
+## Visitings, Collaborations
+1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
+1. Universität Stuttgart, Stuttgart, Germany, August 14-27, 2016.
+1. ECNU Center for PDE, Shanghai, China, April 10-21, 2011
+
+---
 ## Teaching
 
 ### Advisory service
@@ -48,10 +49,12 @@ flow driven by temperature gradient.
 1. Calculus 1, KAIST, Spring, 2008
 1. Freshmen Design, KAIST, Autumn, 2008
 
-## Visitings, Collaborations
-1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
-1. Universität Stuttgart, Stuttgart, Germany, August 14-27, 2016.
-1. ECNU Center for PDE, Shanghai, China, April 10-21, 2011
+---
+## Skills and Experiences
+1. Capable of writing codes in C, Python, and Matlab.
+1. Have experience to implement high order Finite element methods.
+1. Have taken a mini-course on Finite volume methods, KAUST, SA, 2016.
+
 
 ## Presentations
 1. Existence of localizing solutions in plasticity via the geometric singular perturbation theory
