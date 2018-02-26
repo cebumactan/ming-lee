@@ -7,9 +7,9 @@ layout: default
 <br>
 
 ## Employment
-1. 02/2018- moving to GSSI, Italy.
+1. *02/2018- moving to a postdoc position at Gran Sasso Science Institute (GSSI), Italy.*
 1. 01/2018 Visiting Researcher, KAIST, Korea.
-1. 09/2016- 12/2018 Postdoctoral Fellow of Applied PDE Group at KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
+1. 09/2016-12/2018 Postdoctoral Fellow, Applied PDE Group at King Abdulla University of Sciecne and Technology (KAUST). Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
 
 ## Education
 1. 08/2014 Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/).
@@ -36,6 +36,7 @@ layout: default
 
 ---
 ## Visitings, Collaborations
+1. KAIST, Daejeon, Korea, January 17-26, 2018.
 1. Hausdorff center for mathematics, Bonn, Germany, May 21-26, 2017.
 1. Universitty of Vienna, Vienna, Austria, May 1-5, 2017.
 1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
