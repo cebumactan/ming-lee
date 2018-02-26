@@ -36,6 +36,8 @@ layout: default
 
 ---
 ## Visitings, Collaborations
+1. Hausdorff center for mathematics, Bonn, Germany, May 21-26, 2017.
+1. Universitty of Vienna, Vienna, Austria, May 1-5, 2017.
 1. Institute Mittag-Leffler, Djursholm, Sweden, October 24-31, 2016.
 1. Universität Stuttgart, Stuttgart, Germany, August 14-27, 2016.
 1. ECNU Center for PDE, Shanghai, China, April 10-21, 2011
@@ -59,6 +61,8 @@ flow driven by temperature gradient.
 
 
 ## Presentations
+1. Two-parameters family of focusing self-similar solutions in adiabatic shear deformation of thermo-visco-plastic materials, Hausdorff center for mathematics, Bonn, Germany, May 23rd, 2017
+1. Two-parameters family of focusing self-similar solutions in adiabatic shear deformation of thermo-visco-plastic materials, University of Vienna, Vienna, Austria, May 3rd, 2017
 1. Existence of localizing solutions in plasticity via the geometric singular perturbation theory
 Universität Stuttgart, Stuttgart, Germany, August 22nd, 2016
 1. Localization out of the competition of rate dependence and Hadamard instability
@@ -95,5 +99,5 @@ Workshop for Young Mathematicians in Korea, in Postech, January 29, 2011
 1. A direct method for a conductivity recovery using a resistive network
 KSIAM 2008 Annual meeting, in Suanbo, November 28-29, 2008
 
-_Last Updated: January 15, 2017._
+_Last Updated: Feburary, 2018._
 
