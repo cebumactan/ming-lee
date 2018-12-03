@@ -7,7 +7,8 @@ layout: default
 <br>
 
 ## Employment
-1. *02/2018- moving to a postdoc position at Gran Sasso Science Institute (GSSI), Italy.*
+1. 09/2018- Assistant Professor at Kyungpook National University, Daegu, Korea.
+1. 04/2018- 08/2018 a postdoc position at Gran Sasso Science Institute (GSSI), Italy.
 1. 01/2018 Visiting Researcher, KAIST, Korea.
 1. 09/2016-12/2018 Postdoctoral Fellow, Applied PDE Group at King Abdulla University of Sciecne and Technology (KAUST). Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras/).
 
@@ -36,6 +37,7 @@ layout: default
 
 ---
 ## Visitings, Collaborations
+1. KAIST, Daejeon, Korea, March 02-28, 2018.
 1. KAIST, Daejeon, Korea, January 17-26, 2018.
 1. Hausdorff center for mathematics, Bonn, Germany, May 21-26, 2017.
 1. Universitty of Vienna, Vienna, Austria, May 1-5, 2017.
@@ -62,6 +64,8 @@ flow driven by temperature gradient.
 
 
 ## Presentations
+1. Instability leading to localization in high strain-rate deformations of metals, 55th Annual Technical Meeting 2018ses, Madrid, Spain,
+Oct. 11th, 2018
 1. Dynamic shear band formation in the rate dependent thermoplastic metals, Korea Advanced Institute of Science and Technology, Daejeon, Korea, Jan. 17th, 2018
 1. Two-parameters family of focusing self-similar solutions in 1-d thermo-visco-plasticity, Hausdorff center for mathematics, Bonn, Germany, May 23rd, 2017
 1. Two-parameters family of focusing self-similar solutions in adiabatic shear deformation of thermo-visco-plastic materials, University of Vienna, Vienna, Austria, May 3rd, 2017
