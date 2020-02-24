@@ -11,8 +11,12 @@ I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/Peo
 I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/) in Korea Advanced Institute of Science & Technology[(KAIST)](www.kaist.ac.kr). 
 
 leem at knu.ac.kr  
+80 Daehak-ro, Buk-gu, Daegu, 41566, Republic of Korea
 <!-- +966 12 808 6142 %}  -->
 [https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
+
+
+
 
 ### Employment & Education
 1. 09/2018 - Assistant professor, Department of Mathematics, Kyungpook National University, Korea.
