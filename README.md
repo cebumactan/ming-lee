@@ -6,17 +6,9 @@ I am currently an associate professor at Kyungpook National University.
 
 I was a postdoc at [Gran Sasso Science Institute](http://www.gssi.infn.it/) in L'aquila, Italy until August 2018. <!--<img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="wrap align-right">-->
 
-I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa) until December 2017.  
-Postdoctoral advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
-{% comment %} 
-[Computer, Electical, Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa/Pages/Home.aspx) <br>
-King Abdullah University of Science and Technology (KAUST) <br>
-4700 KAUST <br>
-Thuwal, 23955-6900 <br>
-Saudi Arabia 
-{% endcomment %} 
+I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa) until December 2017.  Postdoctoral advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
 
-mingi.lee at kaust.edu.sa  
+leem at knu.ac.kr  
 <!-- +966 12 808 6142 %}  -->
 [https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
 
