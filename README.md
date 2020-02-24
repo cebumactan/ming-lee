@@ -8,14 +8,11 @@ I was a postdoc at [Gran Sasso Science Institute](http://www.gssi.infn.it/) in L
 
 I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa) until December 2017.  Postdoctoral advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
 
+I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/) in Korea Advanced Institute of Science & Technology[(KAIST)](www.kaist.ac.kr). 
+
 leem at knu.ac.kr  
 <!-- +966 12 808 6142 %}  -->
 [https://cebumactan.github.io/ming-lee](https://cebumactan.github.io/ming-lee)
-
-{% comment %} 
-I am currently a postdoc at KAUST. I am interested in ... I have been trained on partial differential equations, dynamical systems, and basic numerical analysis 
-I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/) in Korea Advanced Institute of Science & Technology[(KAIST)](www.kaist.ac.kr). 
-{% endcomment %} 
 
 ### Employment & Education
 1. 09/2018 - Assistant professor, Department of Mathematics, Kyungpook National University, Korea.
