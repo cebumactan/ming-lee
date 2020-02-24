@@ -1,15 +1,20 @@
 ## Welcome to Min-Gi Lee's page
 <img src="https://cebumactan.github.io/ming-lee/photo3.png" width="120" class="wrap align-left">
-I am moving to [Gran Sasso Science Institute](http://www.gssi.infn.it/) in L'aquila, Italy to work as a postdoctoral researcher. <!--<img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="wrap align-right">-->
 
-I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa) until DEC, 2017.  
+I am currently an associate professor at Kyungpook National University.
+
+
+I was a postdoc at [Gran Sasso Science Institute](http://www.gssi.infn.it/) in L'aquila, Italy until August 2018. <!--<img src="https://cebumactan.github.io/ming-lee/passportphoto.jpg" width="120" class="wrap align-right">-->
+
+I was a postdoc of [Applied PDE group](https://appliedpde.kaust.edu.sa/Pages/People-Page.aspx) at [KAUST](https://www.kaust.edu.sa) until December 2017.  
 Postdoctoral advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
+{% comment %} 
 [Computer, Electical, Mathematical Sciences and Engineering Division](https://cemse.kaust.edu.sa/Pages/Home.aspx) <br>
 King Abdullah University of Science and Technology (KAUST) <br>
 4700 KAUST <br>
 Thuwal, 23955-6900 <br>
 Saudi Arabia 
-
+{% endcomment %} 
 
 mingi.lee at kaust.edu.sa  
 <!-- +966 12 808 6142 %}  -->
@@ -21,7 +26,8 @@ I did Ph.d. under the supervision of [Yong-Jung Kim](http://amath.kaist.ac.kr/pd
 {% endcomment %} 
 
 ### Employment & Education
-1. 02/2018 - moving to GSSI, Italy.
+1. 09/2018 - Assistant professor, Department of Mathematics, Kyungpook National University, Korea.
+1. 02/2018 - 08/2018 Postdoc, GSSI, Italy.
 1. 01/2018 Visiting Researcher, KAIST, Korea
 1. 09/2014 - 12/2017 Postdoc, KAUST. Advisor: [Athanasios Tzavaras](http://users.tem.uoc.gr/~thanos.tzavaras).
 1. 08/2014  Ph.d. Department of Mathematical Science, KAIST. Advisor: [Yong-Jung Kim](http://amath.kaist.ac.kr/pde_lab/members/YongJungKim/).
@@ -44,12 +50,14 @@ The 6th graduate | Hansung Science Highschool
 Applied Partial Differential Equations
 
 ### Publications, Preprints <a name="Publications"> </a>
-1. Min-Gi Lee and Athanasios E. Tzavaras, Localization in adiabatic shear flow via geometric theory of singular perturbations, J. Nonlinear Sci. [ARTICLE](https://rdcu.be/bpt4U), [arXiv:1707.05283v4](https://arxiv.org/abs/1707.05283)
+1. Min-Gi Lee,  Asymptotic stability of non-autonomous systems and a generalization of Levinson's Theorem, _Mathematics_, 7 (2019), 1213. [doi](https://doi.org/10.3390/math7121213)
+
+1. Min-Gi Lee, Katsaounis Theodoros, and E. Tzavaras Athanasios, Localization in adiabatic shear flow via geometric theory of singular perturbations, _J. Nonlinear Sci._ 29 (2019), 2055--2101. [doi](https://doi.org/10.1007/s00332-019-09538-3), [arXiv:1707.05283v4](https://arxiv.org/abs/1707.05283)
 
 1. Min-Gi Lee, Theodoros Katsaounis and Athanasios E. Tzavaras, Localization of Adiabatic Deformations in Thermoviscoplastic Materials, _In Proceedings of the 16th International Conference on Hyperbolic Problems: Theory, Numerics, Applications (HYP2016)_, to appear. [preprint](https://github.com/cebumactan/tex_repo/raw/master/shbndhyp2016/shbndhyp2016.pdf)
 
 1. Min-Gi Lee, Athanasios Tzavaras, Existence of localizing solutions in plasticity via the geometric theory
-of singular perturbations, _Siam J. Appl. Dyn. Systems_, 16 (2017), no.1, 337-360. [arxiv:1608.00198](https://arxiv.org/abs/1608.00198).
+of singular perturbations, _SIAM J. Appl. Dyn. Systems_, 16 (2017), no.1, 337-360. [arxiv:1608.00198](https://arxiv.org/abs/1608.00198).
 
 1. Theodoros Katsaounis, Min-Gi Lee, Athanasios Tzavaras, Localization in inelastic rate dependent
 shearing deformations, _J. Mech. Phys. of Solids_ 98 (2017), 106–125. [arxiv:1605.04564](https://arxiv.org/abs/1605.04564)
