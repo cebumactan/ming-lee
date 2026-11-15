@@ -43,50 +43,50 @@ The 6th graduate | Hansung Science Highschool
 Applied Partial Differential Equations
 
 ### Publications, Preprints <a name="Publications"> </a>
-1. Chanwoo Jeong, Min-Gi Lee, Hugoniot Locus of Coupled Burgers’ Equations and (non-)Existence of Traveling Viscous Shocks, _J. Dyn. Differ. Equ._ (2026). [doi](https://doi.org/10.1007/s10884-026-10513-2), [ARTICLE PDF](https://link.springer.com/content/pdf/10.1007/s10884-026-10513-2.pdf)
+1. Chanwoo Jeong, Min-Gi Lee, Hugoniot Locus of Coupled Burgers’ Equations and (non-)Existence of Traveling Viscous Shocks, _J. Dyn. Differ. Equ._ (2026). [doi](https://doi.org/10.1007/s10884-026-10513-2), [doi](https://link.springer.com/content/pdf/10.1007/s10884-026-10513-2.pdf)
 
-1. Jaywan Chung, Yong-Jung Kim, Min-Gi Lee, Random Walk with Heterogeneous Sojourn Time, _J. Dyn. Differ. Equ._ 38 (2026), 355–382. [doi](https://doi.org/10.1007/s10884-025-10409-7), [arXiv:2302.06275](https://arxiv.org/abs/2302.06275), [preprint PDF](https://arxiv.org/pdf/2302.06275)
+1. Jaywan Chung, Yong-Jung Kim, Min-Gi Lee, Random Walk with Heterogeneous Sojourn Time, _J. Dyn. Differ. Equ._ 38 (2026), 355–382. [doi](https://doi.org/10.1007/s10884-025-10409-7), [preprint](https://arxiv.org/abs/2302.06275), [preprint](https://arxiv.org/pdf/2302.06275)
 
-1. Kyung-Han Choi, Yong-Jung Kim, Min-Gi Lee, Dweller-Wanderer Interaction for Chemotactic Phenomena, _SIAM J. Appl. Math._ 85 (2025), no. 5, 2167–2189. [ARTICLE](https://epubs.siam.org/doi/10.1137/24M1693210)
+1. Kyung-Han Choi, Yong-Jung Kim, Min-Gi Lee, Dweller-Wanderer Interaction for Chemotactic Phenomena, _SIAM J. Appl. Math._ 85 (2025), no. 5, 2167–2189. [doi](https://epubs.siam.org/doi/10.1137/24M1693210)
 
-1. Jan Giesselmann, Kiwoong Kwon, Min-Gi Lee, Relative entropy technique in terms of position and momentum and its application to Euler-Poisson system, preprint (2024). [arXiv:2401.17651](https://arxiv.org/abs/2401.17651), [preprint PDF](https://arxiv.org/pdf/2401.17651)
+1. Jan Giesselmann, Kiwoong Kwon, Min-Gi Lee, Relative entropy technique in terms of position and momentum and its application to Euler-Poisson system, preprint (2024). [preprint](https://arxiv.org/abs/2401.17651), [preprint](https://arxiv.org/pdf/2401.17651)
 
 1. Chanwoo Jeong, Philsu Kim, Min-Gi Lee, Existence and nonexistence of traveling waves of coupled Burgers’ equations, _Commun. Nonlinear Sci. Numer. Simul._ 125 (2023), 107385. [doi](https://doi.org/10.1016/j.cnsns.2023.107385)
 
-1. Ohsang Kwon, Min-Gi Lee, Solutions of Schrödinger equations with symmetry in orientation preserving tetrahedral group, _J. Differential Equations_ 361 (2023), 531–561. [doi](https://doi.org/10.1016/j.jde.2023.03.044), [arXiv:2204.00357](https://arxiv.org/abs/2204.00357), [preprint PDF](https://arxiv.org/pdf/2204.00357)
+1. Ohsang Kwon, Min-Gi Lee, Solutions of Schrödinger equations with symmetry in orientation preserving tetrahedral group, _J. Differential Equations_ 361 (2023), 531–561. [doi](https://doi.org/10.1016/j.jde.2023.03.044), [preprint](https://arxiv.org/abs/2204.00357), [preprint](https://arxiv.org/pdf/2204.00357)
 
-1. Ohsang Kwon, Min-Gi Lee, Youngae Lee, Infinitely many segregated vector solutions of Schrodinger system, _J. Math. Anal. Appl._ 512 (2022), no. 2, 126094. [doi](https://doi.org/10.1016/j.jmaa.2022.126094), [arXiv:2109.12822](https://arxiv.org/abs/2109.12822), [preprint PDF](https://arxiv.org/pdf/2109.12822)
+1. Ohsang Kwon, Min-Gi Lee, Youngae Lee, Infinitely many segregated vector solutions of Schrodinger system, _J. Math. Anal. Appl._ 512 (2022), no. 2, 126094. [doi](https://doi.org/10.1016/j.jmaa.2022.126094), [preprint](https://arxiv.org/abs/2109.12822), [preprint](https://arxiv.org/pdf/2109.12822)
 
 1. Min-Gi Lee,  Asymptotic stability of non-autonomous systems and a generalization of Levinson's Theorem, _Mathematics_, 7 (2019), 1213. [doi](https://doi.org/10.3390/math7121213)
 
-1. Min-Gi Lee, Katsaounis Theodoros, and E. Tzavaras Athanasios, Localization in adiabatic shear flow via geometric theory of singular perturbations, _J. Nonlinear Sci._ 29 (2019), 2055--2101. [doi](https://doi.org/10.1007/s00332-019-09538-3), [arXiv:1707.05283v4](https://arxiv.org/abs/1707.05283)
+1. Min-Gi Lee, Katsaounis Theodoros, and E. Tzavaras Athanasios, Localization in adiabatic shear flow via geometric theory of singular perturbations, _J. Nonlinear Sci._ 29 (2019), 2055--2101. [doi](https://doi.org/10.1007/s00332-019-09538-3), [preprint](https://arxiv.org/abs/1707.05283)
 
 1. Min-Gi Lee, Theodoros Katsaounis and Athanasios E. Tzavaras, Localization of Adiabatic Deformations in Thermoviscoplastic Materials, _In Proceedings of the 16th International Conference on Hyperbolic Problems: Theory, Numerics, Applications (HYP2016)_, to appear. [preprint](https://github.com/cebumactan/tex_repo/raw/master/shbndhyp2016/shbndhyp2016.pdf)
 
 1. Min-Gi Lee, Athanasios Tzavaras, Existence of localizing solutions in plasticity via the geometric theory
-of singular perturbations, _SIAM J. Appl. Dyn. Systems_, 16 (2017), no.1, 337-360. [arxiv:1608.00198](https://arxiv.org/abs/1608.00198).
+of singular perturbations, _SIAM J. Appl. Dyn. Systems_, 16 (2017), no.1, 337-360. [preprint](https://arxiv.org/abs/1608.00198).
 
 1. Theodoros Katsaounis, Min-Gi Lee, Athanasios Tzavaras, Localization in inelastic rate dependent
-shearing deformations, _J. Mech. Phys. of Solids_ 98 (2017), 106–125. [arxiv:1605.04564](https://arxiv.org/abs/1605.04564)
+shearing deformations, _J. Mech. Phys. of Solids_ 98 (2017), 106–125. [preprint](https://arxiv.org/abs/1605.04564)
 
 3. Yong-Jung Kim, Min-Gi Lee, Existence and uniqueness in anisotropic conductivity reconstruction with
 Faraday’s law, submitted to J. Differential Equations. [preprint](https://github.com/cebumactan/ming-lee/raw/master/preprints/39Aniso-2D.pdf)
 
 4. Min-Gi Lee, Min-Su Ko, Yong-Jung Kim, Orthotropic conductivity reconstruction with virtual resistive
-network and Faraday’s law, _Math. Methods Appl. Sci._ 39 (2016), 1183-1196. [ARTICLE](http://onlinelibrary.wiley.com/doi/10.1002/mma.3564/pdf)
+network and Faraday’s law, _Math. Methods Appl. Sci._ 39 (2016), 1183-1196. [doi](http://onlinelibrary.wiley.com/doi/10.1002/mma.3564/pdf)
 
 5. Yong-Jung Kim, Min-Gi Lee, Well-posedness of the conductivity reconstruction from an interior current
-density in terms of Schauder theory, _Quart. Appl. Math. 73 (2015)_, no.3, 419-433. [ARTICLE](http://www.ams.org/journals/qam/2015-73-03/S0033-569X-2015-01368-9/S0033-569X-2015-01368-9.pdf)
+density in terms of Schauder theory, _Quart. Appl. Math. 73 (2015)_, no.3, 419-433. [doi](http://www.ams.org/journals/qam/2015-73-03/S0033-569X-2015-01368-9/S0033-569X-2015-01368-9.pdf)
 
 6. Yong-Jung Kim, Min-Gi Lee and Marshall Slemrod, Thermal creep of a rarefied gas on the basis of
-non-linear Korteweg-theory, _Arch. Ration. Mech. Anal._ 214 (2015), no.2, 353-379. [ARTICLE](http://link.springer.com/content/pdf/10.1007%2Fs00205-014-0780-7.pdf)
+non-linear Korteweg-theory, _Arch. Ration. Mech. Anal._ 214 (2015), no.2, 353-379. [doi](http://link.springer.com/content/pdf/10.1007%2Fs00205-014-0780-7.pdf)
 
 7. Min-Gi Lee, Yong-Jung Kim, Min-Su Ko, Virtual Resistive Network and Conductivity Reconstruction
-with Faraday’s law, _Inverse Problems_. 30 (2014), no. 12, 125009-125029. [ARTICLE](http://iopscience.iop.org/article/10.1088/0266-5611/30/12/125009/pdf)
+with Faraday’s law, _Inverse Problems_. 30 (2014), no. 12, 125009-125029. [doi](http://iopscience.iop.org/article/10.1088/0266-5611/30/12/125009/pdf)
 
 8. Tae Hwi Lee, Hyun Soo Nam, Min-Gi Lee, Yong-Jung Kim, Eung Je Woo, and Oh In Kwon, Recon-
 struction of Conductivity Using Dual Loop Method with One Injection Current in MREIT _Phys. Med.
-Biol._ 55 (2010), no.24, 7523-7539. [ARTICLE](http://iopscience.iop.org/article/10.1088/0031-9155/55/24/009/pdf)
+Biol._ 55 (2010), no.24, 7523-7539. [doi](http://iopscience.iop.org/article/10.1088/0031-9155/55/24/009/pdf)
 
 ### Theses 
 1. Min-Gi Lee, Well-posedness in anisotropic electrical conductivity reconstruction [(2014, Ph.D. thesis, KAIST)](https://github.com/cebumactan/ming-lee/raw/master/preprints/Min-Gi_Lee_Thesis.pdf) 
