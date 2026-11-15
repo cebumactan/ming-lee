@@ -43,19 +43,19 @@ The 6th graduate | Hansung Science Highschool
 Applied Partial Differential Equations
 
 ### Publications, Preprints <a name="Publications"> </a>
-1. Chanwoo Jeong, Min-Gi Lee, Hugoniot Locus of Coupled Burgers’ Equations and (non-)Existence of Traveling Viscous Shocks, _J. Dyn. Differ. Equ._ (2026). [doi](https://doi.org/10.1007/s10884-026-10513-2), [doi](https://link.springer.com/content/pdf/10.1007/s10884-026-10513-2.pdf)
+1. Chanwoo Jeong, Min-Gi Lee, Hugoniot Locus of Coupled Burgers’ Equations and (non-)Existence of Traveling Viscous Shocks, _J. Dyn. Differ. Equ._ (2026). [doi](https://doi.org/10.1007/s10884-026-10513-2)
 
-1. Jaywan Chung, Yong-Jung Kim, Min-Gi Lee, Random Walk with Heterogeneous Sojourn Time, _J. Dyn. Differ. Equ._ 38 (2026), 355–382. [doi](https://doi.org/10.1007/s10884-025-10409-7), [preprint](https://arxiv.org/abs/2302.06275), [preprint](https://arxiv.org/pdf/2302.06275)
+1. Jaywan Chung, Yong-Jung Kim, Min-Gi Lee, Random Walk with Heterogeneous Sojourn Time, _J. Dyn. Differ. Equ._ 38 (2026), 355–382. [doi](https://doi.org/10.1007/s10884-025-10409-7), [preprint](https://arxiv.org/abs/2302.06275)
 
 1. Kyung-Han Choi, Yong-Jung Kim, Min-Gi Lee, Dweller-Wanderer Interaction for Chemotactic Phenomena, _SIAM J. Appl. Math._ 85 (2025), no. 5, 2167–2189. [doi](https://epubs.siam.org/doi/10.1137/24M1693210)
 
-1. Jan Giesselmann, Kiwoong Kwon, Min-Gi Lee, Relative entropy technique in terms of position and momentum and its application to Euler-Poisson system, preprint (2024). [preprint](https://arxiv.org/abs/2401.17651), [preprint](https://arxiv.org/pdf/2401.17651)
+1. Jan Giesselmann, Kiwoong Kwon, Min-Gi Lee, Relative entropy technique in terms of position and momentum and its application to Euler-Poisson system, preprint (2024). [preprint](https://arxiv.org/abs/2401.17651)
 
 1. Chanwoo Jeong, Philsu Kim, Min-Gi Lee, Existence and nonexistence of traveling waves of coupled Burgers’ equations, _Commun. Nonlinear Sci. Numer. Simul._ 125 (2023), 107385. [doi](https://doi.org/10.1016/j.cnsns.2023.107385)
 
-1. Ohsang Kwon, Min-Gi Lee, Solutions of Schrödinger equations with symmetry in orientation preserving tetrahedral group, _J. Differential Equations_ 361 (2023), 531–561. [doi](https://doi.org/10.1016/j.jde.2023.03.044), [preprint](https://arxiv.org/abs/2204.00357), [preprint](https://arxiv.org/pdf/2204.00357)
+1. Ohsang Kwon, Min-Gi Lee, Solutions of Schrödinger equations with symmetry in orientation preserving tetrahedral group, _J. Differential Equations_ 361 (2023), 531–561. [doi](https://doi.org/10.1016/j.jde.2023.03.044), [preprint](https://arxiv.org/abs/2204.00357)
 
-1. Ohsang Kwon, Min-Gi Lee, Youngae Lee, Infinitely many segregated vector solutions of Schrodinger system, _J. Math. Anal. Appl._ 512 (2022), no. 2, 126094. [doi](https://doi.org/10.1016/j.jmaa.2022.126094), [preprint](https://arxiv.org/abs/2109.12822), [preprint](https://arxiv.org/pdf/2109.12822)
+1. Ohsang Kwon, Min-Gi Lee, Youngae Lee, Infinitely many segregated vector solutions of Schrodinger system, _J. Math. Anal. Appl._ 512 (2022), no. 2, 126094. [doi](https://doi.org/10.1016/j.jmaa.2022.126094), [preprint](https://arxiv.org/abs/2109.12822)
 
 1. Min-Gi Lee,  Asymptotic stability of non-autonomous systems and a generalization of Levinson's Theorem, _Mathematics_, 7 (2019), 1213. [doi](https://doi.org/10.3390/math7121213)
 
